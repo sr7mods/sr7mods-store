@@ -87,6 +87,26 @@
           "url": "https://www.dropbox.com/scl/fi/wz3mkjs5tvrt8w9fvrjvx/Telegram_12.8.3_Ghost-Pro-by-SR7-Mods.apk?rlkey=twwyp102n50l5vpv4iezgqngb&st=7v0s7rxj&dl=1"
         }
       ]
+    },
+    {
+      "pkg": "com.ludashi.dualspaceprox",
+      "name": "DualSpace Pro",
+      "category": "tool",
+      "icon": "icons/dualspacepro.png",
+      "version": "3.1.4",
+      "creator": "Ludashi",
+      "modder": "SR7 Mods ",
+      "description": "<p>No In-app Purchase</p>\n<p>Just Use</p>",
+      "mod_features": [
+        "Pro Unlocked",
+        "Ads Removed"
+      ],
+      "download_links": [
+        {
+          "name": "Download APK",
+          "url": "https://www.dropbox.com/scl/fi/76oc1c5ttd9cxmcrahdus/DualSpace-Pro_3.1.4.apk?rlkey=y0lu3qli7tppscmsqpm4makd2&st=bfcvp1ie&dl=1"
+        }
+      ]
     }
   ]
 }
